@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Nolan Hamel 🌲🏔️
+
+### About Me:
+
+I am senior Computer Science major at Clemson University.
+I currently work for [Eleos Technologies](https://eleostech.com/) as a Software Engineering Intern.
 
 <!--
 **nolan-hamel/nolan-hamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
