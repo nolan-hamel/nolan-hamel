@@ -1,9 +1,6 @@
-### Hi there, I'm Nolan Hamel 🌲🏔️
+# Hi there, I'm Nolan Hamel 🌲🏔️
 
-### About Me:
-
-I am senior Computer Science major at Clemson University.
-
+I am senior Computer Science major at Clemson University.                                      
 I currently work for [Eleos Technologies](https://eleostech.com/) as a Software Engineering Intern.
 
 <!--
