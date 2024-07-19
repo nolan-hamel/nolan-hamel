@@ -1,6 +1,6 @@
 # Hi there, I'm Nolan Hamel 🌲🏔️
                                     
-I currently work for [Eleos Technologies](https://eleostech.com/) as a Software Engineer.
+I currently work for [Eleos Technologies](https://eleostech.com/) as a Backend Software Engineer.
 
 <!--
 **nolan-hamel/nolan-hamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
